@@ -1,0 +1,6 @@
+tyre laying
+tyre front
+tyre partial
+tyre side
+tyre right
+tyre left

@@ -1,0 +1,5 @@
+# Ignore the images used for training
+*.jpg
+*.jpg.txt
+*.png
+*.png.txt
