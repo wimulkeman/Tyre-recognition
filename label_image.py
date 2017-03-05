@@ -35,3 +35,5 @@ with tf.Session() as sess:
         human_string = label_lines[node_id]
         score = predictions[0][node_id]
         print('%s (score = %.5f)' % (human_string, score))
+
+    print('The tyre is most likely a: %s' % label_lines[top_k[0]])
